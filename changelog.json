@@ -1,0 +1,28 @@
+{
+    "changelogs": [
+        {
+            "text": "Via Version",
+            "type": 0
+        },
+        {
+            "text": "Discord RPC",
+            "type": 0
+        },
+        {
+            "text": "Entity Culling",
+            "type": 0
+        },
+        {
+            "text": "Godbridge Assist",
+            "type": 0
+        },
+        {
+            "text": "added more fps boost settings",
+            "type": 0
+        },
+        {
+            "text": "Memory-Leak",
+            "type": 1
+        }
+    ]
+}
