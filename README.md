@@ -1,1 +1,2 @@
 # SoarClient-Libraries
+xmr donate:49oTEseecJhPThbzctpRZgXdcWcxTS9vtg3uWQv2A7Pdhb7UhxaXyS7EqjtimTNRFj3TJBnnWJM6GRTVUDVL3BZTM7YZY6Z
